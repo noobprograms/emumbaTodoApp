@@ -23,7 +23,8 @@ The login and registration functionality communicates with the nodejs backend to
 ### Home Screen:
 Home screen is designed to show all the todos on the main screen. Completed and pending todos are shown with options to update or delete them. This also communicates with backend to do this task. 
 There is also a logout button on the top to sign the user out. When you sign out, the backend ensures that your token is blacklisted and you cannot access the routes again.
-![image](https://github.com/user-attachments/assets/ed6627cc-2a25-4527-add1-28c92b587722)
+![image](https://github.com/user-attachments/assets/8418ae90-a9a6-4701-8042-c745455c356e)
+
 
 ### Add todo using picture:
 You can select a picture from the gallery of a todo to get its todos created in the app.
